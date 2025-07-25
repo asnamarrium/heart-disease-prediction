@@ -1,1 +1,2 @@
-# heart-disease-prediction
+# Heart Disease Prediction
+This project focuses on predicting heart disease using real clinical data through machine learning techniques. The dataset was cleaned and scaled for better model performance, and a correlation heatmap was used to explore relationships between features. Two models — Logistic Regression and Decision Tree — were trained to classify whether a person may have heart disease. Among them, the Decision Tree model achieved the highest performance with 98% accuracy, along with strong precision, recall, and F1-score.
